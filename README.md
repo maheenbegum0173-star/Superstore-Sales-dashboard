@@ -32,7 +32,7 @@ Key insights include:
 - Performance summary
 - Category-level comparisons
 - Quick view of major business indicators
-(!Executive Overview)(/Executive Overview.png)
+![Executive Overview](/Executive Overview.png)
 ---
 
 ### 2. Sales Analytics
