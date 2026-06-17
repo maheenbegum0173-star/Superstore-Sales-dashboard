@@ -45,7 +45,7 @@ Features:
 - Regional/category comparisons
 - Interactive filters and slicers
 - Sales trend visualization
-/sales Analytics.png
+![sales Analytics](sales%20Analytics.png)
 ---
 
 ### 3. Profit Analytics
@@ -58,7 +58,7 @@ Features:
 - Profit contribution analysis
 - Profitability trends
 - Category-wise performance insights
-`Profit Analytics.png`
+![Profit Analytics](Profit%20Analytics.png)
 ---
 
 ### 4. Customer Analytics
@@ -70,7 +70,7 @@ Features:
 - Customer-based performance metrics
 - Customer segment comparison
 - Buying behavior insights
-`Customer Analysis.png`
+![Customer Analysis](Customer%20Analysis.png)
 ---
 
 ### 5. Product Analytics
@@ -82,7 +82,7 @@ Features:
 - Product category comparison
 - Product contribution trends
 - Performance monitoring
-`Product Analysis.png`
+![Product Analysis](Product%20Analysis.png)
 ---
 
 ### 6. Product Detail Analysis
@@ -94,7 +94,7 @@ Features:
 - Product-specific metrics
 - Product performance comparison
 - Drill-through analysis
-`Product Details.png`
+![Product Details](Product%20ODetails.png)
 ---
 
 ### 7. Customer Detailed Analysis
@@ -106,7 +106,7 @@ Features:
 - Customer performance analysis
 - Customer comparison
 - Detailed business metrics
-`Customer Details.png`
+![Customer Analysis](Customer%20Details.png)
 ---
 
 ## Key Features
