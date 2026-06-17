@@ -106,7 +106,7 @@ Features:
 - Customer performance analysis
 - Customer comparison
 - Detailed business metrics
-![Customer Details](Customer%20Details.png)
+![Customer Details](Customer  Details.png)
 ---
 
 ## Key Features
