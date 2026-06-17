@@ -97,7 +97,7 @@ Features:
 ![Product Details](Product%20Details.png)
 ---
 
-### 7. Customer Detailed Analysis
+### 7. Customer Detail Analysis
 
 Provides deeper customer-level insights.
 
