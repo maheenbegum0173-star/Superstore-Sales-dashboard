@@ -32,7 +32,7 @@ Key insights include:
 - Performance summary
 - Category-level comparisons
 - Quick view of major business indicators
-`Executive overview.png`
+/Executive overview.png
 ---
 
 ### 2. Sales Analytics
@@ -45,7 +45,7 @@ Features:
 - Regional/category comparisons
 - Interactive filters and slicers
 - Sales trend visualization
-`sales Analytics.png`
+/sales Analytics.png
 ---
 
 ### 3. Profit Analytics
