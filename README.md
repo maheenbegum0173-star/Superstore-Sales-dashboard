@@ -168,4 +168,5 @@ This dashboard helps organizations:
 
 ---
 
-## Project Structure
+Author
+Maheen Begum
