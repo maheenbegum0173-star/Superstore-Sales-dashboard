@@ -1,4 +1,4 @@
-# Superstore-Sales-dashboard
+# Superstore-Sales-Dashboard
 
 ## Overview
 
@@ -10,7 +10,7 @@ The dashboard enables decision-makers to track important metrics, identify trend
 
 ## Project File
 
-**File Name:** `Final__Project.pbix`
+**File Name:** `Superstore Analysis Dashboard.pbix`
 
 **Tool Used:** Microsoft Power BI Desktop
 
