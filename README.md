@@ -94,7 +94,7 @@ Features:
 - Product-specific metrics
 - Product performance comparison
 - Drill-through analysis
-![Product Details](Product%20ODetails.png)
+![Product Details](Product%20Details.png)
 ---
 
 ### 7. Customer Detailed Analysis
